@@ -10,7 +10,6 @@
 
 # Built executable (Go)
 # ignore the produced `todo` binary
-todo
 
 # Test binary, built with `go test -c`
 *.test
