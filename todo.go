@@ -1,3 +1,4 @@
+// Simple todo list
 package todo
 
 import (

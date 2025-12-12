@@ -25,7 +25,7 @@ func main() {
 	// For no extra arguments, print the list
 	case len(os.Args) == 1:
 		for _, item := range *l {
-			fmt.Println(item)
+			fmt.Println(item.Task)
 		}
 
 	// Concatenate all provided arguments with a space and add
